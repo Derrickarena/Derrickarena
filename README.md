@@ -97,12 +97,5 @@ I'm particularly interested in **SOC operations, network security, defensive sec
 
 ---
 
-## 📫 Connect With Me
-
-- LinkedIn: [Add your LinkedIn profile]
-- Portfolio: [Add your portfolio]
-- Email: [Add your professional email]
-
----
 
 ⭐ Thanks for visiting my profile!
